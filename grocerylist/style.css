@@ -1,0 +1,25 @@
+header{
+    color: midnightblue;
+    border-style: double;
+    border-color: black;
+    background-color: darkcyan;
+    font-size: 50px;
+    font-weight: 100px;
+    margin-right: 500px;
+}
+h1 { border-style: double;
+    border-color: blue;
+background-color: darkcyan;
+margin-right: 500px;
+font-family: cursive;}
+
+.groceriesImg { 
+    padding-left: 4%;
+padding-right: 4%;
+padding-top: 4%;
+padding-bottom: 4%;
+}
+.labels {
+    background-color: darkcyan;
+    font-weight: bold;
+}
